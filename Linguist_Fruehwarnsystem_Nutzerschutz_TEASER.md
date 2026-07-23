@@ -1,6 +1,6 @@
 # Linguist. Frühwarnsystem zum Nutzerschutz
 
-⚠️ **Hinweis:** Bewusst gekürzte Vorschau eines laufenden Konzepts, keine fertige Lösung.
+**Hinweis:** Bewusst gekürzte Vorschau eines laufenden Konzepts, keine fertige Lösung.
 
 Untersucht, warum Sicherheitskontext bei Chat-Thread-Wechseln in Krisenmomenten verloren geht, und skizziert eine erste Denkrichtung: durchgängige, nicht-stigmatisierende Präsenz statt wiederholter automatisierter Nachfrage.
 
